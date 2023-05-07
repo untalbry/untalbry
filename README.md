@@ -8,16 +8,19 @@ Computer Engineer Student - Oracle Next Education | Founder of Binary Brains UPI
 - I am a programming technician and student of a degree in computer engineering, focused on BackEnd, IA and more. 
 <p align = "center">
 <a href= "https://www.codewars.com/users/_bry.sr_">
-  <img align = "center" title="CodeWars" src= "https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey">
+  <img align = "center" title="CodeWars" src= "https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
   </a>
 </p>
-- 🔭 I’m currently working on [Binary Brains UPIICSA](https://github.com/BinaryBrainsUPIICSA)
+- 🔭 I’m currently working on: <a  href="https://github.com/BinaryBrainsUPIICSA"><img align="center"   title="BBUPIICSA" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-- 📫 How to reach me **bryancsinformatica@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
+## 📫 How to reach me 
 
 <p align="center">
+  <a>
+  <img align="center" alt="Gmail" title="Gmail" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
+  </a>
   <!--LinkedIn-->
   <a  href="https://www.linkedin.com/in/bryan-castro-programador/">
     <img align="center" alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -25,6 +28,8 @@ Computer Engineer Student - Oracle Next Education | Founder of Binary Brains UPI
   <!--Instagram-->
   <a  href="https://www.instagram.com/_bry.sr_/"><img align="center" alt="Insagram" title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
+
+## 💻 Coding skills 
 
 <!--BackEnd-->
 <h3 align="left">Back-End Languages and Tools:</h3>
