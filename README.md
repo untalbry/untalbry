@@ -14,18 +14,12 @@ Computer Engineer Student - Oracle Next Education | Founder of Binary Brains UPI
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-  <!--Twitter-->
-  <a href="https://twitter.com/@_brysr_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_brysr_" height="30" width="40" /> 
-  </a>
   <!--LinkedIn-->
-  <a href="https://www.linkedin.com/in/bryan-castro-programador/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryan castro sánchez" height="30" width="40" />
+  <a  href="https://www.linkedin.com/in/bryan-castro-programador/">
+    <img align="center" alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <!--Instagram-->
-  <a href="https://www.instagram.com/_bry.sr_/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_bry.sr_" height="30" width="40" />
-  </a>
+  <a  href="https://www.instagram.com/_bry.sr_/"><img align="center" alt="Insagram" title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
 <!--BackEnd-->
@@ -86,9 +80,7 @@ Computer Engineer Student - Oracle Next Education | Founder of Binary Brains UPI
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
-  <!--Bash-->
-   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  </a> 
   
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xVrzBx&show_icons=true&theme=tokyonight)
