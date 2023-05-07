@@ -1,6 +1,9 @@
 # Bryan Castro Sánchez
 Computer Engineer Student - Oracle Next Education | Founder of Binary Brains UPIICSA
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/BinaryBrains?style=social)](https://twitter.com/DevsUpiics48486)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_BrySR_?style=social)](https://twitter.com/_BrySR_)
+
 ## 🚀 About Me
 - I am a programming technician and student of a degree in computer engineering, focused on BackEnd, IA and more. 
 
