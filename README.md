@@ -88,3 +88,4 @@ Computer Engineer Student - Oracle Next Education | Founder of Binary Brains UPI
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xVrzBx&show_icons=true&theme=tokyonight)
+![Lagnuajes](https://github-readme-stats.vercel.app/api/top-langs/?username=xVrzBx&theme=tokyonight)
