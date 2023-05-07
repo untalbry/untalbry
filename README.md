@@ -6,11 +6,11 @@ Computer Engineer Student - Oracle Next Education | Founder of Binary Brains UPI
 
 ## 🚀 About Me
 - I am a programming technician and student of a degree in computer engineering, focused on BackEnd, IA and more. 
-
+<p align = "center">
 <a href= "https://www.codewars.com/users/_bry.sr_">
   <img align = "center" title="CodeWars" src= "https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey">
   </a>
-
+</p>
 - 🔭 I’m currently working on [Binary Brains UPIICSA](https://github.com/BinaryBrainsUPIICSA)
 
 - 📫 How to reach me **bryancsinformatica@gmail.com**
