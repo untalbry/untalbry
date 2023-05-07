@@ -18,8 +18,9 @@ Computer Engineer Student - Oracle Next Education | Founder of Binary Brains UPI
 ## 📫 How to reach me 
 
 <p align="center">
-  <a href= "bryancsinformatica@gmail.com">
-  <img align="center" alt="Gmail" title="Gmail" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
+  bryancsinformatica@gmail.com
+  <a>
+  <img align="center" alt="Gmail" title="bryancsinformatica@gmail.com" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
   </a>
   <!--LinkedIn-->
   <a  href="https://www.linkedin.com/in/bryan-castro-programador/">
