@@ -18,7 +18,7 @@ Computer Engineer Student - Oracle Next Education | Founder of Binary Brains UPI
 ## 📫 How to reach me 
 
 <p align="center">
-  <a>
+  <a href= "bryancsinformatica@gmail.com">
   <img align="center" alt="Gmail" title="Gmail" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
   </a>
   <!--LinkedIn-->
