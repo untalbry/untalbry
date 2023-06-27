@@ -27,7 +27,7 @@ Computer Engineer Student - Oracle Next Education | Founder of Binary Brains UPI
     <img align="center" alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <!--Instagram-->
-  <a  href="https://www.instagram.com/_bry.sr_/"><img align="center" alt="Insagram" title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a  href="https://www.instagram.com/untalbry/"><img align="center" alt="Insagram" title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
 ## 💻 Coding skills 
