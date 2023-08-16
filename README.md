@@ -3,7 +3,7 @@
 Computer Engineer Student - Oracle Next Education | Founder of Binary Brains UPIICSA
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/BinaryBrains?style=social)](https://twitter.com/DevsUpiics48486)
-[![Twitter Follow](https://img.shields.io/twitter/follow/_BrySR_?style=social)](https://twitter.com/_BrySR_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/untalbry?style=social)](https://twitter.com/untalbry)
 
 ## 🚀 About Me
 - I am a programming technician and student of a degree in computer engineering, focused on BackEnd, IA and more. 
@@ -39,10 +39,6 @@ Computer Engineer Student - Oracle Next Education | Founder of Binary Brains UPI
      <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
     </a>
-    <!--PHP-->
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-    </a> 
     <!--MySQL-->
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
@@ -67,10 +63,7 @@ Computer Engineer Student - Oracle Next Education | Founder of Binary Brains UPI
   <!--C-->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a>
-  
- 
- 
+  </a> 
   <!--HTML5-->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
