@@ -81,6 +81,9 @@ Computer Engineer Student - Oracle Next Education | Founder of Binary Brains UPI
   </a> 
   
 </p>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif">
+</p>
 <div align ="center">
   <a href="https://github.com/xVrzBX">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=xVrzBX&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true%22"/>
