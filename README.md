@@ -82,7 +82,8 @@ Computer Engineer Student - Oracle Next Education | Founder of Binary Brains UPI
   
 </p>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif">
+  <img src="https://i.pinimg.com/originals/63/88/d5/6388d58d9b3f314f8ab22fe2e3598b8c.gif">
+  
 </p>
 <div align ="center">
   <a href="https://github.com/xVrzBX">
