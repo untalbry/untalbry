@@ -8,6 +8,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/BinaryBrains?style=social)](https://twitter.com/DevsUpiics48486)
 [![Twitter Follow](https://img.shields.io/twitter/follow/untalbry?style=social)](https://twitter.com/untalbry)
+![GitHub Followers](https://img.shields.io/github/followers/xVrzBx?style=social)
+[![Twitch Status](https://img.shields.io/twitch/status/untalbry?style=social)](https://twitch.com/untalbry)
+[![Discord](https://img.shields.io/discord/881664688230920232?style=social&label=Discord&logo=discord)](https://discord.gg/cyXd37NTbq)
 
 ## 🚀 About Me
 - I am a programming technician and student of a degree in computer engineering, focused on BackEnd, IA and more. 
