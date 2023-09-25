@@ -1,4 +1,8 @@
-<h1 align="center">Hi! ✌️<br><a href="https://www.linkedin.com/in/bryan-castro-programador/">I'm Bryan Castro</a>  </h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=100&center=true&multiline=true&width=435&height=200&lines=Hi!+%E2%9C%8C%EF%B8%8F;+I'm+Bryan+Castro%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Backend+Junior+Developer%F0%9F%92%BB" alt="Typing SVG" />
+  </a>
+</h1>
 
 ![GITHUBBRY](https://github.com/xVrzBx/xVrzBx/assets/91161604/591f8acf-f6e6-4fbc-b25e-d3921c793a8e)
 🎓Computer Engineer Student <a href="https://www.upiicsa.ipn.mx/">@IPN/UPIICSA</a><br>
