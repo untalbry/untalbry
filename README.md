@@ -105,4 +105,3 @@
 # Contributions
 
 ![snake gif](https://github.com/xVrzBx/xVrzBx/blob/output/github-contribution-grid-snake.svg)
-
