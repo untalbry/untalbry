@@ -103,4 +103,4 @@
 </div>
 
 # Contributions
-<p><img align="center" src="https://github.com/xVrzBx/xVrzB/blob/output/github-contribution-grid-snake-grid.svg" width="1000" ></p>
+<p><img align="center" src="https://github.com/xVrzBx/xVrzB/blob/output/github-contribution-grid-snake-dark.svg" width="1000" ></p>
