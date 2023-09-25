@@ -19,7 +19,7 @@
   <img align = "center" title="CodeWars" src= "https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
   </a>
 </p>
-- 🔭 I’m currently working on: <a  href="https://github.com/BinaryBrainsUPIICSA"><img align="center"   title="BBUPIICSA" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+- 🔭 I’m currently working on: <strong>100 Days 100 Proyects</strong> 📟<a  href="https://github.com/xVrzBx/100Days100Proyects"><img align="center"   title="BBUPIICSA" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 
 
