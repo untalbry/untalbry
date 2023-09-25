@@ -61,8 +61,8 @@
 </p>
 <div align ="center">
   <a href="https://github.com/xVrzBX">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=xVrzBX&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true%22"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xVrzBX&theme=dark&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=xVrzBX&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true%22"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xVrzBX&theme=tokyonight&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -72,4 +72,10 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/xVrzBx/xVrzBx/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
+</div>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="right" href="https://github.com/xVrzBx/100Days100Proyects" title="100 Days 100 proyects"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=xVrzBX4&repo=100Days100Proyects&theme=tokyonight&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/KushalTanna24/Chat-Fresh" title="Chat & Fresh"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=Chat-Fresh&theme=tokyonight&border_color=61dafb&border_radius=10"></a>
 </div>
