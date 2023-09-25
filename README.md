@@ -73,9 +73,8 @@
   
   <br/><br/><br/>
 </div>
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center">👨‍💻 Popular Repositories 👨‍💻</h2>
 <br>
-<div width="100%" align="center">
-  <a align="right" href="https://github.com/xVrzBx/100Days100Proyects" title="100 Days 100 proyects"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=xVrzBX4&repo=100Days100Proyects&theme=tokyonight&border_color=61dafb&border_radius=10"></a>
-  <a align="left" href="https://github.com/KushalTanna24/Chat-Fresh" title="Chat & Fresh"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=Chat-Fresh&theme=tokyonight&border_color=61dafb&border_radius=10"></a>
+<div  align="center">
+  <a align="center" href="https://github.com/xVrzBx/100Days100Proyects" title="100 Days 100 proyects"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=xVrzBx&repo=100Days100Proyects&theme=tokyonight&border_color=61dafb&border_radius=10"></a>
 </div>
