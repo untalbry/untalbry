@@ -103,5 +103,4 @@
 </div>
 
 # Contributions
-
-![snake gif](https://github.com/xVrzBx/xVrzBx/blob/output/github-contribution-grid-snake.svg)
+<p><img align="center" src="https://github.com/xVrzBx/xVrzB/blob/output/github-contribution-grid-snake.svg" width="1000" ></p>
