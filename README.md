@@ -4,7 +4,7 @@
 🎓Computer Engineer Student <a href="https://www.upiicsa.ipn.mx/">@IPN/UPIICSA</a><br>
 ☕Oracle Next Education Backend Junior<br>
 🧠<a href="https://www.instagram.com/bbupiicsa/">Founder of Binary Brains UPIICSA</a><br>
-📓<a href="https://www.notion.so/es-la/desktop">Notion Campus Leader</a>
+📓<a href="https://www.notion.so/es-la/desktop">Notion Campus Leader</a> <img align="center" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/BinaryBrains?style=social)](https://twitter.com/DevsUpiics48486)
 [![Twitter Follow](https://img.shields.io/twitter/follow/untalbry?style=social)](https://twitter.com/untalbry)
@@ -18,6 +18,9 @@
 <a href= "https://www.codewars.com/users/_bry.sr_">
   <img align = "center" title="CodeWars" src= "https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
   </a>
+<a href="https://leetcode.com/xVrzBx/">
+  <img align ="center" title="Leetcode" src= "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+</a>
 </p>
 - 🔭 I’m currently working on: <strong>100 Days 100 Proyects</strong> 📟<a  href="https://github.com/xVrzBx/100Days100Proyects"><img align="center"   title="BBUPIICSA" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
