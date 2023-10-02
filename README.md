@@ -53,9 +53,9 @@
   <!--contenido 1-->
   <div align="center"> 
     <h3 >Back-End Languages and Tools:</h3>
-    <img  src="https://skillicons.dev/icons?i=github,java,maven,spring,hibernate,mysql" /> 
+    <img  src="https://skillicons.dev/icons?i=github,java,maven,hibernate,spring,mysql" /> 
     <h3 >Extra Languages and Tools:</h3>
-    <img  src="https://skillicons.dev/icons?i=js,html,css,c,py,arduino,vscode" /> 
+    <img  src="https://skillicons.dev/icons?i=js,html,css,c,arduino,py,vscode" /> 
   </div> 
     <!--contenido 2-->
  <div align="center">
