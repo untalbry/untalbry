@@ -5,6 +5,8 @@
 </h1>
 
 ![GITHUBBRY](https://github.com/xVrzBx/xVrzBx/assets/91161604/591f8acf-f6e6-4fbc-b25e-d3921c793a8e)
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 🎓Computer Engineer Student <a href="https://www.upiicsa.ipn.mx/">@IPN/UPIICSA</a><br>
 ☕Oracle Next Education Backend Junior<br>
 🧠<a href="https://www.instagram.com/bbupiicsa/">Founder of Binary Brains UPIICSA</a><br>
