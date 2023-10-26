@@ -1,3 +1,13 @@
+
+<div align="right">
+	<a href="https://twitter.com/DevsUpiics48486" ><img src="https://img.shields.io/twitter/follow/BinaryBrains?style=social"></a>
+	<a href="https://twitter.com/untalbry" ><img src="https://img.shields.io/twitter/follow/untalbry?style=social"></a>
+	<a href="" ><img src="https://img.shields.io/github/followers/xVrzBx?style=social"></a>
+	<a href="https://twitch.com/untalbry" ><img src="https://img.shields.io/twitch/status/untalbry?style=social"></a>
+	<a href="https://discord.gg/cyXd37NTbq" ><img src="https://img.shields.io/discord/881664688230920232?style=social&label=Discord&logo=discord"></a>
+	
+</div>
+
 ![GITHUBBRY](https://github.com/xVrzBx/xVrzBx/assets/91161604/591f8acf-f6e6-4fbc-b25e-d3921c793a8e)
 
 <h1 align="center">
@@ -7,17 +17,10 @@
 </h1>
 
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-🎓Computer Engineer Student <a href="https://www.upiicsa.ipn.mx/">@IPN/UPIICSA</a><br>
-☕Oracle Next Education Backend Junior<br>
-🧠<a href="https://www.instagram.com/bbupiicsa/">Founder of Binary Brains UPIICSA</a><br>
-<img src="https://img.shields.io/badge/Notion_Campus_Leader-Fall_2023-%230e6cce?style=for-the-badge&logo=Notion&logoColor=black&labelColor=white&link=https%3A%2F%2Fwww.notion.so%2Fes-la%2Fdesktop">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/BinaryBrains?style=social)](https://twitter.com/DevsUpiics48486)
-[![Twitter Follow](https://img.shields.io/twitter/follow/untalbry?style=social)](https://twitter.com/untalbry)
-![GitHub Followers](https://img.shields.io/github/followers/xVrzBx?style=social)
-[![Twitch Status](https://img.shields.io/twitch/status/untalbry?style=social)](https://twitch.com/untalbry)
-[![Discord](https://img.shields.io/discord/881664688230920232?style=social&label=Discord&logo=discord)](https://discord.gg/cyXd37NTbq)
+
+
+
 
 <h1> 
 	<a href="" >
@@ -25,11 +28,18 @@
 	</a>
 	 About Bryan Castro 
 </h1> 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 - I am a programming technician and student of a degree in computer engineering, focused on BackEnd, IA and more. 
+
+- 🎓Computer Engineer Student <a href="https://www.upiicsa.ipn.mx/">@IPN/UPIICSA</a>
+
+- ☕Oracle Next Education Backend Junior
+
+- 🧠<a href="https://www.instagram.com/bbupiicsa/">Founder of Binary Brains UPIICSA</a>
 
 - 🔭 I’m currently working on: <strong>100 Days 100 Proyects</strong> 📟<a  href="https://github.com/xVrzBx/100Days100Proyects"><img align="center"   title="BBUPIICSA" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-- Going for 100 problems of LeetCode or Codewars🔥
 
 <p align = "center">
 <a href= "https://www.codewars.com/users/_bry.sr_">
@@ -38,6 +48,10 @@
 <a href="https://leetcode.com/xVrzBx/">
   <img align ="center" title="Leetcode" src= "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
 </a>
+<a>
+<img align ="center" src="https://img.shields.io/badge/Notion_Campus_Leader-Fall_2023-%230e6cce?style=for-the-badge&logo=Notion&logoColor=black&labelColor=white&link=https%3A%2F%2Fwww.notion.so%2Fes-la%2Fdesktop">
+</a>
+	
 </p>
 
 
