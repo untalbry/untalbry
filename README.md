@@ -40,7 +40,7 @@
 
 - 🔭 I’m currently working on: <strong>100 Days 100 Proyects</strong> 📟 
 
-
+<br><br>
 <p align = "center">
 <a href= "https://www.codewars.com/users/_bry.sr_">
   <img align = "center" title="CodeWars" src= "https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
