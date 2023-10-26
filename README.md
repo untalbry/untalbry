@@ -11,7 +11,7 @@
 🎓Computer Engineer Student <a href="https://www.upiicsa.ipn.mx/">@IPN/UPIICSA</a><br>
 ☕Oracle Next Education Backend Junior<br>
 🧠<a href="https://www.instagram.com/bbupiicsa/">Founder of Binary Brains UPIICSA</a><br>
-📓<a href="https://www.notion.so/es-la/desktop">Notion Campus Leader</a> <img align="center" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/Notion_Campus_Leader-Fall_2023-%230e6cce?style=for-the-badge&logo=Notion&logoColor=black&labelColor=white&link=https%3A%2F%2Fwww.notion.so%2Fes-la%2Fdesktop">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/BinaryBrains?style=social)](https://twitter.com/DevsUpiics48486)
 [![Twitter Follow](https://img.shields.io/twitter/follow/untalbry?style=social)](https://twitter.com/untalbry)
