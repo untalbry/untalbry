@@ -54,7 +54,7 @@
   <!--Instagram-->
 	<a  href="https://www.instagram.com/untalbry/"><img align="center" alt="Insagram" title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <!--Tiktok-->
-	<a href=""> <img align="center" alt="Tiktok" title="tiktok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+	<a href="https://www.tiktok.com/@untalbry"> <img align="center" alt="Tiktok" title="tiktok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
  
 </p>
 
