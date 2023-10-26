@@ -38,7 +38,7 @@
 
 - 🧠<a href="https://www.instagram.com/bbupiicsa/">Founder of Binary Brains UPIICSA</a>
 
-- 🔭 I’m currently working on: <strong>100 Days 100 Proyects</strong> 📟<a  href="https://github.com/xVrzBx/100Days100Proyects"><img align="center"   title="BBUPIICSA" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+- 🔭 I’m currently working on: <strong>100 Days 100 Proyects</strong> 📟 
 
 
 <p align = "center">
@@ -50,6 +50,9 @@
 </a>
 <a>
 <img align ="center" src="https://img.shields.io/badge/Notion_Campus_Leader-Fall_2023-%230e6cce?style=for-the-badge&logo=Notion&logoColor=black&labelColor=white&link=https%3A%2F%2Fwww.notion.so%2Fes-la%2Fdesktop">
+</a>
+<a ref="https://github.com/xVrzBx/100Days100Proyects">
+<img align="center" src="https://img.shields.io/github/stars/xVrzBx/100DAYS100PROYECTS?style=for-the-badge&logo=Github&label=100%20DAYS%20100%20PROYECTS&labelColor=%23031b34&color=%235bd7cc">
 </a>
 	
 </p>
