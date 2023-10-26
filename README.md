@@ -41,7 +41,7 @@
 </p>
 
 
-<h2>📫 How to reach me </h2>
+<h3 align="center">📫 How to reach me </h3>
 
 <p align="center">
   <a>
