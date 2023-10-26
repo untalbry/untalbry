@@ -19,7 +19,12 @@
 [![Twitch Status](https://img.shields.io/twitch/status/untalbry?style=social)](https://twitch.com/untalbry)
 [![Discord](https://img.shields.io/discord/881664688230920232?style=social&label=Discord&logo=discord)](https://discord.gg/cyXd37NTbq)
 
-<h1> 🚀 About Bryan Castro </h1> 
+<h1> 
+	<a href="" >
+		<img src="https://media.tenor.com/nIHzGa4dXJEAAAAi/dm4uz3-foekoe.gif" width="50px">
+	</a>
+	 About Bryan Castro 
+</h1> 
 - I am a programming technician and student of a degree in computer engineering, focused on BackEnd, IA and more. 
 
 - 🔭 I’m currently working on: <strong>100 Days 100 Proyects</strong> 📟<a  href="https://github.com/xVrzBx/100Days100Proyects"><img align="center"   title="BBUPIICSA" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -43,11 +48,14 @@
   <img align="center" alt="Gmail" title="bryancsinformatica@gmail.com" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
   </a>
   <!--LinkedIn-->
-  <a  href="https://www.linkedin.com/in/bryan-castro-programador/">
-    <img align="center" alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+	  <a  href="https://www.linkedin.com/in/bryan-castro-programador/">
+    		<img align="center" alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ 	 </a>
   <!--Instagram-->
-  <a  href="https://www.instagram.com/untalbry/"><img align="center" alt="Insagram" title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+	<a  href="https://www.instagram.com/untalbry/"><img align="center" alt="Insagram" title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <!--Tiktok-->
+	<a href=""> <img align="center" alt="Tiktok" title="tiktok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+ 
 </p>
 
 ![GITHUBBRY](https://github.com/xVrzBx/xVrzBx/assets/91161604/602859c3-d939-4c89-abd2-fff1c8a90580)
