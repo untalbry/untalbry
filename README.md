@@ -93,7 +93,7 @@ Languages and Tools
 
 </h3>
 <div align="center">
-    <img  src="https://skillicons.dev/icons?i=github,java,maven,hibernate,spring,mysql,js,html,css,bash,c,arduino,py,vscode,linux&perline=3" /> 
+    <img  src="https://skillicons.dev/icons?i=github,java,maven,hibernate,spring,mysql,vscode,linux,bash,py,js,html,css,c,arduino&perline=3" /> 
   <img  src="https://i.pinimg.com/originals/63/88/d5/6388d58d9b3f314f8ab22fe2e3598b8c.gif">
 </div>
 
