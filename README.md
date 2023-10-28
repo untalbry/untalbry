@@ -92,15 +92,52 @@ Languages and Tools
 	</a>
 
 </h3>
-<div align="center">
-    <img  src="https://skillicons.dev/icons?i=github,java,maven,hibernate,spring,mysql,vscode,linux,bash,py,js,html,css,c,arduino&perline=3" /> 
-  <img  src="https://i.pinimg.com/originals/63/88/d5/6388d58d9b3f314f8ab22fe2e3598b8c.gif">
+<div>
+  <img  align="right" src="https://i.pinimg.com/originals/63/88/d5/6388d58d9b3f314f8ab22fe2e3598b8c.gif">
+	
+<details align="left">
+  <summary>My Tools and Software 🛠️</summary>
+  <br>
+  <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,md,linux,vscode,idea,ai,discord&perline=5"/>
+  </a>
+</p>
+</details>
+<details align="left">
+  <summary>Backend💻</summary>
+  <br>
+  <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,maven,hibernate,spring,mysql,mongodb,docker&perline=5"/>
+  </a>
+</p>
+</details>
+<details align="left">
+  <summary>Frontend🎨</summary>
+  <br>
+  <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=5"/>
+  </a>
+</p>
+</details>
+<details>
+<summary>Other Technologies 📟</summary>
+  <br>
+  <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,arduino,py,bash&perline=5"/>
+  </a>
+</p>
+</details>
+
 </div>
-
-
-  
+<br><br><br>
+<br><br><br>
+<br>
   <div align ="center">
-    <h3> Stats </h3>
+    <h2> Stats </h2>
     <a href="https://github.com/xVrzBX">
       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=xVrzBX&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true%22"/>
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xVrzBX&theme=tokyonight&hide_border=false&&layout=compact"/>
