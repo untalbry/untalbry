@@ -32,13 +32,13 @@
 
 - I am a programming technician and student of a degree in computer engineering, focused on BackEnd, IA and more. 
 
-- 🎓Computer Engineer Student <a href="https://www.upiicsa.ipn.mx/">@IPN/UPIICSA</a>
+- 🎓Computer Engineer <strong>Student</strong> at <a href="https://www.upiicsa.ipn.mx/">@IPN/UPIICSA</a>
 
 - ☕Oracle Next Education Backend Junior
 
-- 🧠<a href="https://www.instagram.com/bbupiicsa/">Founder of Binary Brains UPIICSA</a>
+- 🧠<a href="https://www.instagram.com/bbupiicsa/">Founder of Binary Brains UPIICSA</a>. Checkout our popular repo: <a href="https://github.com/xVrzBx/100Days100Proyects"> 100 Day 100 Proyects< /a>
 
-- 🔭 I’m currently working on: <strong>100 Days 100 Proyects</strong> 📟 
+- 🔭 I’m currently working at: <strong>Emeth Corp</strong> 📟 
 
 <br><br>
 <p align = "center">
