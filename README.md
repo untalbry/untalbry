@@ -138,9 +138,9 @@ Languages and Tools
 <br>
   <div align ="center">
     <h2> Stats </h2>
-    <a href="https://github.com/xVrzBX">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=xVrzBX&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true%22"/>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xVrzBX&theme=tokyonight&hide_border=false&&layout=compact"/>
+    <a href="https://github.com/untalbry">
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=untalbry&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true%22"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=untalbry&theme=tokyonight&hide_border=false&&layout=compact"/>
     </a>
   </div>
 
@@ -155,6 +155,6 @@ Languages and Tools
 <h2 align="center">👨‍💻 Repositories i love 👨‍💻</h2>
 <br>
 <div  align="center">
-  <a align="center" href="https://github.com/xVrzBx/100Days100Proyects" title="100 Days 100 proyects"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=xVrzBx&repo=100Days100Proyects&theme=tokyonight&border_color=61dafb&border_radius=10"></a>
-	 <a align="center" href="https://github.com/xVrzBx/codemberSolutions" title="Codember Solutions"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=xVrzBx&repo=codemberSolutions&theme=tokyonight&border_color=61dafb&border_radius=10"></a>
+  <a align="center" href="https://github.com/untalbry/100Days100Proyects" title="100 Days 100 proyects"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=untalbry&repo=100Days100Proyects&theme=tokyonight&border_color=61dafb&border_radius=10"></a>
+	 <a align="center" href="https://github.com/untalbry/codemberSolutions" title="Codember Solutions"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=untalbry&repo=codemberSolutions&theme=tokyonight&border_color=61dafb&border_radius=10"></a>
 </div>
