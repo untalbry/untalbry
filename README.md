@@ -100,7 +100,7 @@ Languages and Tools
   <br>
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,md,linux,vscode,idea,ai,discord&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,md,linux,vscode,idea,ai,discord,figma&perline=5"/>
   </a>
 </p>
 </details>
