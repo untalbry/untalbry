@@ -2,7 +2,7 @@
 <div align="right">
 	<a href="https://twitter.com/DevsUpiics48486" ><img src="https://img.shields.io/twitter/follow/BinaryBrains?style=social"></a>
 	<a href="https://twitter.com/untalbry" ><img src="https://img.shields.io/twitter/follow/untalbry?style=social"></a>
-	<a href="" ><img src="https://img.shields.io/github/followers/xVrzBx?style=social"></a>
+	<a href="" ><img src="https://img.shields.io/github/followers/untalbry?style=social"></a>
 	<a href="https://twitch.com/untalbry" ><img src="https://img.shields.io/twitch/status/untalbry?style=social"></a>
 	<a href="https://discord.gg/cyXd37NTbq" ><img src="https://img.shields.io/discord/881664688230920232?style=social&label=Discord&logo=discord"></a>
 	
