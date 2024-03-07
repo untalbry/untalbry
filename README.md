@@ -28,7 +28,7 @@
 
 - ☕Oracle Next Education Backend Junior
 
-- 🧠<a href="https://www.instagram.com/bbupiicsa/">Founder of Binary Brains UPIICSA</a>. Checkout our popular repo: <a href="https://github.com/xVrzBx/100Days100Proyects"> 100 Day 100 Proyects </a>
+- 🧠<a href="https://www.instagram.com/bbupiicsa/">Founder of Binary Brains UPIICSA</a>. Checkout our popular repo: <a href="https://github.com/untalbry/Devathon"> Devathon</a>
 
 - 🔭 I’m currently working at: <strong>Emeth Corp</strong> 📟 
 
