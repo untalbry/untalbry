@@ -9,17 +9,9 @@
 </div>
 
 ![GITHUBBRY](https://github.com/xVrzBx/xVrzBx/assets/91161604/591f8acf-f6e6-4fbc-b25e-d3921c793a8e)
-
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://git.io/typing-svg"><img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=5BD7CC&random=false&width=435&lines=Let's+build+the+future+together+%F0%9F%92%BB" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2000&color=5BD7CC&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=Let's+build+the+future+;together+%F0%9F%92%BB" alt="Typing SVG" /></a>
 </h1>
-
-
-
-
-
 
 
 <h1> 
