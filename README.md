@@ -14,6 +14,61 @@
 </h1>
 
 
+
+
+  <!--contenido 1-->
+
+<h3 align="center">
+<a href="">
+		<img src="https://media.tenor.com/PRcQePKtLYYAAAAi/blue-blueflame.gif" width="40" />
+	</a>
+Languages and Tools
+	<a href="">
+		<img src="https://media.tenor.com/PRcQePKtLYYAAAAi/blue-blueflame.gif" width="40" />
+	</a>
+
+</h3>
+<div>
+  <img  align="right" src="https://i.pinimg.com/originals/63/88/d5/6388d58d9b3f314f8ab22fe2e3598b8c.gif">
+	
+<details align="left">
+  <summary>My Tools and Software 🛠️</summary>
+  <br>
+  <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,md,linux,vscode,idea,ai,discord,figma&perline=5"/>
+  </a>
+</p>
+</details>
+<details align="left">
+  <summary>Backend💻</summary>
+  <br>
+  <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,maven,hibernate,spring,mysql,mongodb,docker&perline=5"/>
+  </a>
+</p>
+</details>
+<details align="left">
+  <summary>Frontend🎨</summary>
+  <br>
+  <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=5"/>
+  </a>
+</p>
+</details>
+<details>
+<summary>Other Technologies 📟</summary>
+  <br>
+  <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,arduino,py,bash&perline=5"/>
+  </a>
+</p>
+</details>
+<br><br><br>
+<br><br><br>
 <h1> 
 	<a href="" >
 		<img src="https://media.tenor.com/nIHzGa4dXJEAAAAi/dm4uz3-foekoe.gif" width="50px">
@@ -69,64 +124,10 @@
 
 ![GITHUBBRY](https://github.com/xVrzBx/xVrzBx/assets/91161604/602859c3-d939-4c89-abd2-fff1c8a90580)
 
-# 💻 Coding skills 
 
-
-  <!--contenido 1-->
-
-<h3 align="center">
-<a href="">
-		<img src="https://media.tenor.com/PRcQePKtLYYAAAAi/blue-blueflame.gif" width="40" />
-	</a>
-Languages and Tools
-	<a href="">
-		<img src="https://media.tenor.com/PRcQePKtLYYAAAAi/blue-blueflame.gif" width="40" />
-	</a>
-
-</h3>
-<div>
-  <img  align="right" src="https://i.pinimg.com/originals/63/88/d5/6388d58d9b3f314f8ab22fe2e3598b8c.gif">
-	
-<details align="left">
-  <summary>My Tools and Software 🛠️</summary>
-  <br>
-  <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,md,linux,vscode,idea,ai,discord,figma&perline=5"/>
-  </a>
-</p>
-</details>
-<details align="left">
-  <summary>Backend💻</summary>
-  <br>
-  <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,maven,hibernate,spring,mysql,mongodb,docker&perline=5"/>
-  </a>
-</p>
-</details>
-<details align="left">
-  <summary>Frontend🎨</summary>
-  <br>
-  <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=5"/>
-  </a>
-</p>
-</details>
-<details>
-<summary>Other Technologies 📟</summary>
-  <br>
-  <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,arduino,py,bash&perline=5"/>
-  </a>
-</p>
-</details>
 
 </div>
-<br><br><br>
-<br><br><br>
+
 <br>
   <div align ="center">
     <h2> Stats </h2>
