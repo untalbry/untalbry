@@ -49,15 +49,7 @@ Languages and Tools
   </a>
 </p>
 </details>
-<details align="left">
-  <summary>Frontend🎨</summary>
-  <br>
-  <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=5"/>
-  </a>
-</p>
-</details>
+
 <details>
 <summary>Other Technologies 📟</summary>
   <br>
