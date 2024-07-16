@@ -36,7 +36,7 @@ Languages and Tools
   <br>
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,md,linux,apple,vscode,idea,ai,discord,figma&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,md,linux,apple,vscode,idea,ai,discord,figma,notion&perline=5"/>
   </a>
 </p>
 </details>
