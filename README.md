@@ -87,7 +87,7 @@ Languages and Tools
 <a href="https://leetcode.com/xVrzBx/">
   <img align ="center" title="Leetcode" src= "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
 </a>
-<a href="https://www.notion.so/es-la/desktop">
+<a href="https://www.instagram.com/notioncl_upiicsa/">
 <img align ="center" src="https://img.shields.io/badge/Campus_Leader-Fall_2023-%230e6cce?style=for-the-badge&logo=Notion&logoColor=black&labelColor=white&link=https%3A%2F%2Fwww.notion.so%2Fes-la%2Fdesktop">
 </a>
 <a href="https://github.com/xVrzBx/100Days100Proyects">
