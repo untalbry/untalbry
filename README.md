@@ -45,7 +45,7 @@ Languages and Tools
   <br>
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,maven,hibernate,spring,mysql,mongodb,docker&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=kotlin,java,maven,hibernate,spring,py,flask,postgres,mongodb,docker&perline=5"/>
   </a>
 </p>
 </details>
@@ -55,7 +55,7 @@ Languages and Tools
   <br>
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,arduino,py,bash&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=c,arduino,bash&perline=5"/>
   </a>
 </p>
 </details>
