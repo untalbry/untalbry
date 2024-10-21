@@ -36,7 +36,7 @@ Languages and Tools
   <br>
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,md,linux,apple,vscode,idea,ai,discord,figma,notion&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,md,linux,apple,vscode,idea,discord,figma,notion&perline=5"/>
   </a>
 </p>
 </details>
@@ -45,7 +45,7 @@ Languages and Tools
   <br>
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,maven,hibernate,spring,py,flask,postgres,mongodb,docker&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=java,maven,hibernate,spring,py,flask,postgres,mongodb,docker&perline=5"/>
   </a>
 </p>
 </details>
@@ -55,7 +55,7 @@ Languages and Tools
   <br>
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,arduino,bash&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=kotlin,c,arduino,bash&perline=5"/>
   </a>
 </p>
 </details>
