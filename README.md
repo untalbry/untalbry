@@ -7,50 +7,8 @@
 	<a href="https://discord.gg/cyXd37NTbq" ><img src="https://img.shields.io/discord/881664688230920232?style=social&label=Discord&logo=discord"></a>
 	
 </div>
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=3092EC&center=true&vCenter=true&width=435&lines=Together+we+go+further" alt="Typing SVG" /></a>
-</h1>
 
 
-
-
-  <!--contenido 1-->
-
-<h3 align="left">Languages and Tools</h3>
-<div>
-  <img  align="right" src="https://i.pinimg.com/originals/63/88/d5/6388d58d9b3f314f8ab22fe2e3598b8c.gif">
-	
-
-<details align="left">
-  <summary>Backend💻</summary>
-  <br>
-  <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,maven,hibernate,spring,py,fastapi,flask,postgres,docker,aws&perline=5"/>
-  </a>
-</p>
-</details>
-
-<details>
-<summary>Other Technologies 📟</summary>
-  <br>
-  <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,html,css,js,c,arduino,bash,latex&perline=5"/>
-  </a>
-</p>
-</details>
-<details align="left">
-  <summary>My Tools and Software 🛠️</summary>
-  <br>
-  <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,apple,vscode,idea,discord,figma,notion&perline=5"/>
-  </a>
-</p>
-</details>
-<br><br><br>
-<br><br><br>
 <h1> About Bryan Castro </h1> 
 <p align = "right">
 	<a href="https://www.instagram.com/notioncl_upiicsa/">
@@ -70,22 +28,35 @@
 - 🧠<a href="https://www.instagram.com/bbupiicsa/"> Founder of Binary Brains UPIICSA</a>.
 
 
-
-<br><br>
-
-
-
-<h3 align="center">📫 How to reach me </h3>
-<p align="center">
-  	<!--LinkedIn-->
-	<a  href="https://www.linkedin.com/in/bryan-castro-programador/"><img align="center" alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  	<!--Instagram-->
-	<a  href="https://www.instagram.com/untalbry/"><img align="center" alt="Insagram" title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  	<!--Tiktok-->
-	<a href="https://www.tiktok.com/@untalbry"> <img align="center" alt="Tiktok" title="tiktok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
-</p>
-
+<br><br><br>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=3092EC&center=true&vCenter=true&width=435&lines=Together+we+go+further" alt="Typing SVG" /></a>
 </div>
+<br><br><br>
+
+<h3 align="left">Languages and Tools</h3>
+<div>
+	  <h4>Backend💻</h4>
+	  <p align="left">
+	  <a href="https://skillicons.dev">
+	    <img src="https://skillicons.dev/icons?i=java,maven,hibernate,spring,py,fastapi,flask,postgres,docker,aws&perline=5"/>
+	  </a>
+	</p>
+	<h4>Other Technologies 📟</h4>
+	  <p align="left">
+	  <a href="https://skillicons.dev">
+	    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,html,css,js,c,arduino,bash,latex&perline=5"/>
+	  </a>
+	</p>
+	  <h4>My Tools and Software 🛠️</h4>
+	  <p align="left">
+	  <a href="https://skillicons.dev">
+	    <img src="https://skillicons.dev/icons?i=linux,apple,vscode,idea,discord,figma,notion&perline=5"/>
+	  </a>
+	</p>
+</div>
+
+<br>
 
 <br>
   <div align ="center">
@@ -99,6 +70,15 @@
   
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-
 </div>
+
+<h3 align="center">📫 How to reach me </h3>
+<p align="center">
+  	<!--LinkedIn-->
+	<a  href="https://www.linkedin.com/in/bryan-castro-programador/"><img align="center" alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  	<!--Instagram-->
+	<a  href="https://www.instagram.com/untalbry/"><img align="center" alt="Insagram" title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  	<!--Tiktok-->
+	<a href="https://www.tiktok.com/@untalbry"> <img align="center" alt="Tiktok" title="tiktok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+</p>
 
