@@ -79,8 +79,6 @@
 
 <h3 align="center">📫 How to reach me </h3>
 <p align="center">
-	<!--Gmail-->
-  	<a><img align="center" alt="Gmail" title="bryancsinformatica@gmail.com" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
   	<!--LinkedIn-->
 	<a  href="https://www.linkedin.com/in/bryan-castro-programador/"><img align="center" alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   	<!--Instagram-->
