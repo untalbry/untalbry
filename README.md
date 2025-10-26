@@ -60,15 +60,15 @@
 	</a>
 </p>
 
-- I am a programming technician and student of a degree in computer engineering, focused on BackEnd, IA and more. 
+- 🔭 System Analist and Backend developer at: <strong>Emeth Corp</strong> 📟 
 
-- 🎓Computer Engineer <strong>Student</strong> at <a href="https://www.upiicsa.ipn.mx/">@IPN/UPIICSA </a>
+- 🎓 Computer Engineer at <a href="https://www.upiicsa.ipn.mx/">@IPN/UPIICSA </a>
 
-- ☕Oracle Next Education Backend Junior
+- ☕ Oracle Next Education Backend 
 
-- 🧠<a href="https://www.instagram.com/bbupiicsa/">Founder of Binary Brains UPIICSA</a>. Checkout our popular repo: <a href="https://github.com/untalbry/Devathon"> Devathon</a>
+- 🧠<a href="https://www.instagram.com/bbupiicsa/"> Founder of Binary Brains UPIICSA</a>.
 
-- 🔭 I’m currently working at: <strong>Emeth Corp</strong> 📟 
+
 
 <br><br>
 
