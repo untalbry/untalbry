@@ -8,7 +8,7 @@
 	
 </div>
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2000&color=5BD7CC&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=Let's+build+the+future+;together+%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=3092EC&center=true&vCenter=true&width=435&lines=Together+we+go+further" alt="Typing SVG" /></a>
 </h1>
 
 
@@ -20,21 +20,13 @@
 <div>
   <img  align="right" src="https://i.pinimg.com/originals/63/88/d5/6388d58d9b3f314f8ab22fe2e3598b8c.gif">
 	
-<details align="left">
-  <summary>My Tools and Software 🛠️</summary>
-  <br>
-  <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,github,linux,apple,vscode,idea,discord,figma,notion&perline=5"/>
-  </a>
-</p>
-</details>
+
 <details align="left">
   <summary>Backend💻</summary>
   <br>
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,maven,hibernate,spring,py,fastapi,flask,postgres,mongodb,docker&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=java,maven,hibernate,spring,py,fastapi,flask,postgres,docker,aws&perline=5"/>
   </a>
 </p>
 </details>
@@ -44,7 +36,16 @@
   <br>
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,c,arduino,bash,latex&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,html,css,js,c,arduino,bash,latex&perline=5"/>
+  </a>
+</p>
+</details>
+<details align="left">
+  <summary>My Tools and Software 🛠️</summary>
+  <br>
+  <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,apple,vscode,idea,discord,figma,notion&perline=5"/>
   </a>
 </p>
 </details>
