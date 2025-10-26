@@ -73,9 +73,9 @@
 
   
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>My Contributions </h2>
+	<img src="https://raw.githubusercontent.com/untalbry/untalbry/output/snake.svg" alt="Snake animation" />
 </div>
-
 
 <h3 align="center">📫 How to reach me </h3>
 <p align="center">
