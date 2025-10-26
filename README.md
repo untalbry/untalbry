@@ -39,13 +39,13 @@
 	  <h4>Backend💻</h4>
 	  <p align="left">
 	  <a href="https://skillicons.dev">
-	    <img src="https://skillicons.dev/icons?i=java,maven,hibernate,spring,py,fastapi,flask,postgres,docker,aws"/>
+	    <img src="https://skillicons.dev/icons?i=java,maven,hibernate,spring,py,fastapi,postgres,docker,aws"/>
 	  </a>
 	</p>
 	<h4>Other Technologies 📟</h4>
 	  <p align="left">
 	  <a href="https://skillicons.dev">
-	    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,html,css,js,c,arduino,bash,latex"/>
+	    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,html,css,js,c,bash"/>
 	  </a>
 	</p>
 	  <h4>My Tools and Software 🛠️</h4>
