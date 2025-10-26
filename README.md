@@ -18,16 +18,7 @@
 
   <!--contenido 1-->
 
-<h3 align="center">
-<a href="">
-		<img src="https://media.tenor.com/PRcQePKtLYYAAAAi/blue-blueflame.gif" width="40" />
-	</a>
-Languages and Tools
-	<a href="">
-		<img src="https://media.tenor.com/PRcQePKtLYYAAAAi/blue-blueflame.gif" width="40" />
-	</a>
-
-</h3>
+<h3 align="left">Languages and Tools</h3>
 <div>
   <img  align="right" src="https://i.pinimg.com/originals/63/88/d5/6388d58d9b3f314f8ab22fe2e3598b8c.gif">
 	
@@ -61,13 +52,16 @@ Languages and Tools
 </details>
 <br><br><br>
 <br><br><br>
-<h1> 
-	<a href="" >
-		<img src="https://media.tenor.com/nIHzGa4dXJEAAAAi/dm4uz3-foekoe.gif" width="50px">
-	</a>
-	 About Bryan Castro 
-</h1> 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<h1> About Bryan Castro </h1> 
+<p align = "right">
+<a href="https://www.instagram.com/notioncl_upiicsa/">
+<img align ="center" src="https://img.shields.io/badge/Campus_Leader-Fall_2023-%230e6cce?style=for-the-badge&logo=Notion&logoColor=black&labelColor=white&link=https%3A%2F%2Fwww.notion.so%2Fes-la%2Fdesktop">
+</a>
+<a href="https://github.com/binarybrains-upiicsa">
+	<img align="center" alt="GitHub followers" src="https://img.shields.io/github/followers/binarybrains-upiicsa?style=for-the-badge&label=Binary%20Brains&labelColor=%23040623&color=%233092ec">
+</a>
+	
+</p>
 
 - I am a programming technician and student of a degree in computer engineering, focused on BackEnd, IA and more. 
 
@@ -80,43 +74,20 @@ Languages and Tools
 - 🔭 I’m currently working at: <strong>Emeth Corp</strong> 📟 
 
 <br><br>
-<p align = "center">
-<a href= "https://www.codewars.com/users/_bry.sr_">
-  <img align = "center" title="CodeWars" src= "https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
-  </a>
-<a href="https://leetcode.com/xVrzBx/">
-  <img align ="center" title="Leetcode" src= "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
-</a>
-<a href="https://www.instagram.com/notioncl_upiicsa/">
-<img align ="center" src="https://img.shields.io/badge/Campus_Leader-Fall_2023-%230e6cce?style=for-the-badge&logo=Notion&logoColor=black&labelColor=white&link=https%3A%2F%2Fwww.notion.so%2Fes-la%2Fdesktop">
-</a>
-<a href="https://github.com/xVrzBx/100Days100Proyects">
-<img align="center" src="https://img.shields.io/github/stars/xVrzBx/100DAYS100PROYECTS?style=for-the-badge&logo=Github&label=Devathon&labelColor=%23031b34&color=%235bd7cc">
-</a>
-	
-</p>
+
 
 
 <h3 align="center">📫 How to reach me </h3>
-
 <p align="center">
-  <a>
-  <img align="center" alt="Gmail" title="bryancsinformatica@gmail.com" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
-  </a>
-  <!--LinkedIn-->
-	  <a  href="https://www.linkedin.com/in/bryan-castro-programador/">
-    		<img align="center" alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
- 	 </a>
-  <!--Instagram-->
+	<!--Gmail-->
+  	<a><img align="center" alt="Gmail" title="bryancsinformatica@gmail.com" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+  	<!--LinkedIn-->
+	<a  href="https://www.linkedin.com/in/bryan-castro-programador/"><img align="center" alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  	<!--Instagram-->
 	<a  href="https://www.instagram.com/untalbry/"><img align="center" alt="Insagram" title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <!--Tiktok-->
+  	<!--Tiktok-->
 	<a href="https://www.tiktok.com/@untalbry"> <img align="center" alt="Tiktok" title="tiktok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
- 
 </p>
-
-![GITHUBBRY](https://github.com/xVrzBx/xVrzBx/assets/91161604/602859c3-d939-4c89-abd2-fff1c8a90580)
-
-
 
 </div>
 
