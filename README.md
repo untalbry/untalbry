@@ -72,6 +72,12 @@
   <h2>🐍 My Contributions 🐍</h2>
 </div>
 
+<div align="left">
+  <h2> Talks </h2>
+<a href="https://www.youtube.com/watch?v=JHvj4wMvq_0&t=1760s"><img width="30%" height="602" alt="Captura de pantalla 2025-10-25 a las 11 59 04 p m" src="https://github.com/user-attachments/assets/53ec95aa-71d6-4bbb-b288-e6b968cb587c" /></a>
+</div>
+
+
 <h3 align="center">📫 How to reach me </h3>
 <p align="center">
   	<!--LinkedIn-->
