@@ -24,7 +24,7 @@
 
 - ☕ Oracle Next Education Backend 
 
-- 🧠<a href="https://www.instagram.com/bbupiicsa/"> Founder of Binary Brains UPIICSA</a>.
+- 🧠<a href="https://www.instagram.com/bbupiicsa/"> Founder of Binary Brains club</a>.
 
 
 <br><br><br>
