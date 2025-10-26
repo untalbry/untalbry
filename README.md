@@ -60,7 +60,7 @@
 	</a>
 </p>
 
-- 🔭 System Analist and Backend developer at: <strong>Emeth Corp</strong> 📟 
+- 🔭 System Analist and Backend developer at: <strong>Emeth Corp</strong> 
 
 - 🎓 Computer Engineer at <a href="https://www.upiicsa.ipn.mx/">@IPN/UPIICSA </a>
 
