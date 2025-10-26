@@ -52,13 +52,12 @@
 <br><br><br>
 <h1> About Bryan Castro </h1> 
 <p align = "right">
-<a href="https://www.instagram.com/notioncl_upiicsa/">
-<img align ="center" src="https://img.shields.io/badge/Campus_Leader-Fall_2023-%230e6cce?style=for-the-badge&logo=Notion&logoColor=black&labelColor=white&link=https%3A%2F%2Fwww.notion.so%2Fes-la%2Fdesktop">
-</a>
-<a href="https://github.com/binarybrains-upiicsa">
-	<img align="center" alt="GitHub followers" src="https://img.shields.io/github/followers/binarybrains-upiicsa?style=for-the-badge&label=Binary%20Brains&labelColor=%23040623&color=%233092ec">
-</a>
-	
+	<a href="https://www.instagram.com/notioncl_upiicsa/">
+	<img align ="center" src="https://img.shields.io/badge/Campus_Leader-Fall_2023-%230e6cce?style=for-the-badge&logo=Notion&logoColor=black&labelColor=white&link=https%3A%2F%2Fwww.notion.so%2Fes-la%2Fdesktop">
+	</a>
+	<a href="https://github.com/binarybrains-upiicsa">
+		<img align="center" alt="GitHub followers" src="https://img.shields.io/github/followers/binarybrains-upiicsa?style=for-the-badge&label=Binary%20Brains&labelColor=%23040623&color=%233092ec">
+	</a>
 </p>
 
 - I am a programming technician and student of a degree in computer engineering, focused on BackEnd, IA and more. 
