@@ -20,9 +20,9 @@
 
 - 🔭 System Analist and Backend developer at: <strong>Emeth Corp</strong> 
 
-- 🎓 Computer Engineer at <a href="https://www.upiicsa.ipn.mx/">@IPN/UPIICSA </a>
+- 🎓 Computer Engineer at <a href="https://www.upiicsa.ipn.mx/">IPN/UPIICSA </a>
 
-- ☕ Oracle Next Education Backend 
+- ☕ Backend developer - Oracle Next Education
 
 - 🧠<a href="https://www.instagram.com/bbupiicsa/"> Founder of Binary Brains club</a>.
 
